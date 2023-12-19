@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b56dcbb5-1a39-496a-bd3f-b9ba9d4d285d
-  WEBAPP-NAME: az400-webapp-fmelchor
+  WEBAPP-NAME: az400-webapp-test-fmelchor
 
 
 jobs:
